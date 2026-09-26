@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-rhea",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Rhea MCP — expert-curated database of biochemical reactions.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-81c989dcac3191e5d742b2b917f85656155996a591da15650ad2016dd12cc393",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-ccd2304c4c30403e70d6325500bc4e597329245b099fb9114438701046fe9aef",
+    "sourceCommit": "6fe8fb3e01138dfc4ebe7d5c246503aab9278d06"
   }
 }
